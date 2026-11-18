@@ -11,7 +11,7 @@
 - 겨울의 기온 변동성은 여름의 2배 이상
 
 ## 대시보드 화면
-![대시보드 전체 화면](docs/screenshots/00_full_page.png)
+![대시보드 전체 화면](result/dashboard_full_page.png)
 
 ## 폴더 구조
 ```
@@ -25,6 +25,7 @@
 ├── figures/                   # 그림 8개 (fig1 ~ fig8)
 ├── outputs/                   # summary.json(모든 수치), 연·월 집계, 이상치 목록, 2025 예측값
 ├── dashboard/                 # 보너스: 정적 웹 대시보드 (index.html + data.js)
+├── result/                    # 대시보드 실행 결과 화면 (전체 페이지, 로컬 실행 캡처)
 └── docs/                      # 대시보드 실행 방법·시나리오·스크린샷
 ```
 

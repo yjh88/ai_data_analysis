@@ -19,11 +19,11 @@ python -m http.server 8765 --directory dashboard        # 로컬 서버 실행
 ### 로컬 실행 화면
 위 명령으로 실행한 뒤 브라우저에서 `localhost:8765`에 접속한 화면입니다.
 
-![로컬 실행 화면](screenshots/00_local_run.jpg)
+![로컬 실행 화면](../result/dashboard_local_run.jpg)
 
 전체 페이지(KPI·차트 3개 모두 포함):
 
-![대시보드 전체 화면](screenshots/00_full_page.png)
+![대시보드 전체 화면](../result/dashboard_full_page.png)
 
 ## 화면 구성
 
