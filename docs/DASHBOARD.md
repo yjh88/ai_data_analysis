@@ -16,6 +16,11 @@ python -m http.server 8765 --directory dashboard        # 로컬 서버 실행
 - 필터 상태를 URL로 공유할 수 있습니다: `?y0=2012&y1=2025&metric=3&months=7,8&thr=25&win=7`
   (`metric` 1=평균, 2=최고, 3=최저 · `months` 쉼표 구분 · `win` 이동평균 일수 · `thr` 임계값)
 
+### 로컬 실행 화면
+위 명령으로 실행한 뒤 브라우저에서 `localhost:8765`에 접속한 화면입니다.
+
+![로컬 실행 화면](screenshots/00_local_run.jpg)
+
 ## 화면 구성
 
 | 영역 | 내용 |
