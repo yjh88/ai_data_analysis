@@ -1,0 +1,5 @@
+# Python 3.10+ (개발·검증: Python 3.12.7)
+# 검증한 버전: pandas 3.1.1, numpy 2.5.5, matplotlib 3.11.2
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
