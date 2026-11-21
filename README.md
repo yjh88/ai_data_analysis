@@ -2,7 +2,9 @@
 
 서울의 일별 기온 26년치(9,497일)로 **추세·계절성·노이즈**를 분리하고, "서울은 얼마나, 그리고 언제 더워지고 있나"에 답하는 분석 프로젝트입니다.
 
-👉 **분석 리포트: [REPORT.md](REPORT.md)** · 대시보드: [docs/DASHBOARD.md](docs/DASHBOARD.md)
+👉 **분석 리포트: [REPORT.md](REPORT.md)** · 대시보드 설명: [docs/DASHBOARD.md](docs/DASHBOARD.md)
+
+🌐 **대시보드 배포 URL: https://yjh88.github.io/ai_data_analysis/dashboard/** (GitHub Pages)
 
 ## 핵심 결과
 - 연평균기온 **+0.30℃/10년** 상승, 2024·2025년이 26년 중 가장 따뜻한 해

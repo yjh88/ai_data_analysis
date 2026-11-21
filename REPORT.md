@@ -210,7 +210,7 @@ python src/analysis.py       # 정제·분석·그림 8개·outputs/ 생성
 
 ## 10. 보너스: 대시보드
 
-`dashboard/index.html` — 기간(시작·종료 연도), 월(복수 선택), 지표(평균·최고·최저), 이동평균 창(7/30/90/365일), 임계값을 바꿔 가며 탐색. 실행 방법과 시나리오별 스크린샷은 [docs/DASHBOARD.md](docs/DASHBOARD.md) 참고.
+**배포 URL: https://yjh88.github.io/ai_data_analysis/dashboard/** · `dashboard/index.html` — 기간(시작·종료 연도), 월(복수 선택), 지표(평균·최고·최저), 이동평균 창(7/30/90/365일), 임계값을 바꿔 가며 탐색. 실행 방법과 시나리오별 스크린샷은 [docs/DASHBOARD.md](docs/DASHBOARD.md) 참고.
 
 ---
 

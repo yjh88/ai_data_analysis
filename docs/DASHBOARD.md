@@ -1,7 +1,15 @@
 # 대시보드: 서울 일별 기온 탐색기
 
 분석 결과를 기간·조건을 바꿔 가며 직접 확인하는 정적 웹 대시보드(`dashboard/index.html`)입니다.
-제출 방식: **(3) 대시보드 스크린샷 세트 + 필터/기간 변경 시나리오 설명** (+ 로컬 실행 방법).
+제출 방식: **(1) 배포 URL** + (3) 대시보드 스크린샷 세트·시나리오 설명 (+ 로컬 실행 방법).
+
+## 🌐 배포 URL
+**https://yjh88.github.io/ai_data_analysis/dashboard/**  (GitHub Pages, `main` 브랜치에서 자동 배포)
+
+시나리오 바로가기:
+- [여름 폭염일](https://yjh88.github.io/ai_data_analysis/dashboard/?metric=2&months=7,8&thr=33&win=7)
+- [겨울 영상 일수](https://yjh88.github.io/ai_data_analysis/dashboard/?metric=1&months=12,1,2&win=30&thr=0)
+- [최근 열대야](https://yjh88.github.io/ai_data_analysis/dashboard/?y0=2012&y1=2025&metric=3&months=7,8&thr=25&win=7)
 
 ## 실행 방법
 
